@@ -8,7 +8,7 @@ color03="FF/B4/54" # Yellow
 color04="26/6B/85" # Blue
 color05="CB/25/3D" # Magenta
 color06="89/96/A8" # Cyan
-color07="FE/FE/FE" # White
+color07="EF/EF/EF" # White
 
 color08="23/32/3F" # Bright Black
 color09="F0/5E/33" # Bright Red
@@ -24,7 +24,7 @@ color17="9F/3A/2C" # Brown
 color18="3C/44/4D" # Dark Grey
 color19="51/5C/68" # Grey
 color20="B0/B3/BA" # Bright Grey
-color21="FF/FF/FF" # White
+color21="FE/FE/FE" # White
 
 #0E151B - Black
 #D7503C - Red
